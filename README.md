@@ -85,7 +85,6 @@ Create a `.env` file in the server directory with:
 
 ### Client Environment Variables
 Create a `.env` file in the client directory with:
-- `GOOGLE_API_KEY`: Your Google AI API key
 - `TWITTER_API_KEY`: Your Twitter API key
 - `TWITTER_API_SECRET`: Your Twitter API secret key
 - `TWITTER_ACCESS_TOKEN`: Your Twitter access token
